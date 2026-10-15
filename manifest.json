@@ -1,0 +1,10 @@
+{
+  "name": "PM-AL | Central de Estudos",
+  "short_name": "PM-AL Estudos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0e",
+  "theme_color": "#b5121b",
+  "description": "Organizador pessoal de estudos para a PM-AL",
+  "icons": []
+}
